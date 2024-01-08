@@ -1,9 +1,9 @@
 Hi 👋, I'm Auguste, currently in my final year at Vilnius Tech University, studying Multimedia and Computer Design.
-<h3 align="center">I have a strong enthusiasm for creating digital experiences that blend the realms of art and technology. Explore a selection of my coding, multimedia, and computer design projects on my GitHub portfolio. I am currently in search of a vibrant work environment where I can employ my skills while embracing a path of ongoing learning. If you are in need of someone who excels in creativity and innovation, let's get in touch!</h3>
+I have a strong enthusiasm for creating digital experiences that blend the realms of art and technology. Explore a selection of my coding, multimedia, and computer design projects on my GitHub portfolio. I am currently in search of a vibrant work environment where I can employ my skills while embracing a path of ongoing learning. If you are in need of someone who excels in creativity and innovation, let's get in touch!
 
 - 📫 How to reach me **auguste.smolskaite@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/auguste-smolskaite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/auguste-smolskaite/" height="30" width="40" /></a>
 </p>
